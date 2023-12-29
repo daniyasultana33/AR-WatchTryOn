@@ -57,18 +57,4 @@ To contribute or further develop the project:
 5. Test the changes thoroughly within the Unity editor.
 6. Deploy the updated application on target devices for real-world testing.
 
-## Support and Issues
-
-For any questions, suggestions, or bug reports, please open an issue on the project's GitHub repository. We appreciate your feedback and contributions to make Ar-WatchTryOn even better.
-
-## License
-
-Ar-WatchTryOn is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the project according to the terms of the license.
-
-## Acknowledgments
-
-We would like to acknowledge the open-source community and the developers of Unity and Vuforia Engine for their valuable tools and resources that made this project possible.
-
-Happy Watch Try-On! 🕰️👍
-
 
